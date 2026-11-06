@@ -4908,8 +4908,8 @@ www.kacakspor5.com###splash-banner
 ! aglint-enable no-invalid-modifiers
 [$domain=/pasizle\d+\.com$/]##.banner-container
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-||blogger.googleusercontent.com/img/$domain=pasizle864.com
-pasizle864.com##.banner-container
+||blogger.googleusercontent.com/img/$domain=pasizle865.com
+pasizle865.com##.banner-container
 !#endif
 !
 ! Frequently changed domains: milanotv*.shop

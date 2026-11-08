@@ -47,7 +47,7 @@
 @@||log.rlsbb.in^$stealth=ip
 @@||log.rlsbb.to^$stealth=ip
 ! https://github.com/AdguardTeam/AdguardFilters/issues/244926
-@@||speedwebgo.com^$stealth=referrer,domain=blacktoon426.com
+@@||speedwebgo.com^$stealth=referrer,domain=blacktoon427.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/245108
 @@||toho-one.com^$stealth=referrer,domain=toho-one.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/244510
@@ -97,7 +97,7 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/241026
 @@/e/*?sub.info=https://svetserialu.to$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/241303
-@@/stream/*.m3u8$stealth=referrer,domain=sampiyontv2.xyz|sampiyontv3.xyz
+@@/stream/*.m3u8$stealth=referrer,domain=sampiyontv3.xyz
 @@||f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/*.m3u8$stealth=referrer
 ! aglint-disable no-invalid-modifiers
 !+ NOT_VALIDATE

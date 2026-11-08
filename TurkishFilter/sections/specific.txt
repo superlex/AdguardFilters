@@ -452,7 +452,7 @@ tempestmangas.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 
 onedio.com##.layout__main > div.max-w-\[1100px\] > div.flex > a[href] ~ div.u-center.w-\[352px\]
 utanmazkizlar.com##.k-between-buttons-banner
 ifsagram6.com##.banner-wrap
-www.filmmolly.cc,filmgo2.org,filmmolly.com##.sayfa-sol > a[target="_blank"]
+www.filmoley.cc,filmgo2.org,filmmolly.com##.sayfa-sol > a[target="_blank"]
 turkifsahub.com##a[href^="https://go.aff.teslaaffilate.com/"]
 *$script,third-party,domain=turkifsalifetr1.blog
 ifsagram6.com###promoPopup
@@ -4908,8 +4908,8 @@ www.kacakspor5.com###splash-banner
 ! aglint-enable no-invalid-modifiers
 [$domain=/pasizle\d+\.com$/]##.banner-container
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-||blogger.googleusercontent.com/img/$domain=pasizle864.com
-pasizle864.com##.banner-container
+||blogger.googleusercontent.com/img/$domain=pasizle865.com
+pasizle865.com##.banner-container
 !#endif
 !
 ! Frequently changed domains: milanotv*.shop

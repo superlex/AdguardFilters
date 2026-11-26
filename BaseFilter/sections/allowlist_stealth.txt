@@ -49,7 +49,7 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/246435
 @@||click/checklist/*.m3u8$stealth=referrer,domain=inat-tv.org|inattv.co
 ! https://github.com/AdguardTeam/AdguardFilters/issues/245889
-@@||t24yedekyayin36.xyz/*.jpg$stealth=referrer,domain=taraftarium24bjk30.com
+@@||t24yedekyayin36.xyz/*.jpg$stealth=referrer,domain=taraftarium24bjk32.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/246162
 @@||amz-ch.desu.pics/ch/storage/$image,stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/245617
@@ -60,7 +60,7 @@
 @@||log.rlsbb.in^$stealth=ip
 @@||log.rlsbb.to^$stealth=ip
 ! https://github.com/AdguardTeam/AdguardFilters/issues/244926
-@@||speedwebgo.com^$stealth=referrer,domain=blacktoon510.com
+@@||speedwebgo.com^$stealth=referrer,domain=blacktoon511.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/245108
 @@||toho-one.com^$stealth=referrer,domain=toho-one.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/244510
